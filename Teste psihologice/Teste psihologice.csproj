@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{2112D4AC-D330-447F-BBCC-89A3DFD3005B}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Teste_psihologice</RootNamespace>
+    <AssemblyName>Teste psihologice</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Chinestezica.cs" />
+    <Compile Include="Chinestezica.Designer.cs">
+      <DependentUpon>Chinestezica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSE.cs" />
+    <Compile Include="CSE.Designer.cs">
+      <DependentUpon>CSE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CSI.cs" />
+    <Compile Include="CSI.Designer.cs">
+      <DependentUpon>CSI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CVE.cs" />
+    <Compile Include="CVE.Designer.cs">
+      <DependentUpon>CVE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CVI.cs" />
+    <Compile Include="CVI.Designer.cs">
+      <DependentUpon>CVI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Extrovertit.cs" />
+    <Compile Include="Extrovertit.Designer.cs">
+      <DependentUpon>Extrovertit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Coleric.cs" />
+    <Compile Include="Form_Coleric.Designer.cs">
+      <DependentUpon>Form_Coleric.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Flegmatic.cs" />
+    <Compile Include="Form_Flegmatic.Designer.cs">
+      <DependentUpon>Form_Flegmatic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Melancolic.cs" />
+    <Compile Include="Form_Melancolic.Designer.cs">
+      <DependentUpon>Form_Melancolic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Sangvinic.cs" />
+    <Compile Include="Form_Sangvinic.Designer.cs">
+      <DependentUpon>Form_Sangvinic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interpersonala.cs" />
+    <Compile Include="Interpersonala.Designer.cs">
+      <DependentUpon>Interpersonala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Intrapersonala.cs" />
+    <Compile Include="Intrapersonala.Designer.cs">
+      <DependentUpon>Intrapersonala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Introvertit.cs" />
+    <Compile Include="Introvertit.Designer.cs">
+      <DependentUpon>Introvertit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Introvertit_Extrovertit.cs" />
+    <Compile Include="Introvertit_Extrovertit.Designer.cs">
+      <DependentUpon>Introvertit_Extrovertit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lingvistica.cs" />
+    <Compile Include="Lingvistica.Designer.cs">
+      <DependentUpon>Lingvistica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogicaM.cs" />
+    <Compile Include="LogicaM.Designer.cs">
+      <DependentUpon>LogicaM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Muzicala.cs" />
+    <Compile Include="Muzicala.Designer.cs">
+      <DependentUpon>Muzicala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PR_test.cs" />
+    <Compile Include="PR_test.Designer.cs">
+      <DependentUpon>PR_test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PSE.cs" />
+    <Compile Include="PSE.Designer.cs">
+      <DependentUpon>PSE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PSI.cs" />
+    <Compile Include="PSI.Designer.cs">
+      <DependentUpon>PSI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PVE.cs" />
+    <Compile Include="PVE.Designer.cs">
+      <DependentUpon>PVE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PVI.cs" />
+    <Compile Include="PVI.Designer.cs">
+      <DependentUpon>PVI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TestADNmotivational.cs" />
+    <Compile Include="TestADNmotivational.Designer.cs">
+      <DependentUpon>TestADNmotivational.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TesteIntelig.cs" />
+    <Compile Include="TesteIntelig.Designer.cs">
+      <DependentUpon>TesteIntelig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test_Personalitate.cs" />
+    <Compile Include="Test_Personalitate.Designer.cs">
+      <DependentUpon>Test_Personalitate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vizuala.cs" />
+    <Compile Include="Vizuala.Designer.cs">
+      <DependentUpon>Vizuala.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Chinestezica.resx">
+      <DependentUpon>Chinestezica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSE.resx">
+      <DependentUpon>CSE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CSI.resx">
+      <DependentUpon>CSI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CVE.resx">
+      <DependentUpon>CVE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CVI.resx">
+      <DependentUpon>CVI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Extrovertit.resx">
+      <DependentUpon>Extrovertit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Coleric.resx">
+      <DependentUpon>Form_Coleric.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Flegmatic.resx">
+      <DependentUpon>Form_Flegmatic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Melancolic.resx">
+      <DependentUpon>Form_Melancolic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Sangvinic.resx">
+      <DependentUpon>Form_Sangvinic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interpersonala.resx">
+      <DependentUpon>Interpersonala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Intrapersonala.resx">
+      <DependentUpon>Intrapersonala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Introvertit.resx">
+      <DependentUpon>Introvertit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Introvertit_Extrovertit.resx">
+      <DependentUpon>Introvertit_Extrovertit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lingvistica.resx">
+      <DependentUpon>Lingvistica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogicaM.resx">
+      <DependentUpon>LogicaM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Muzicala.resx">
+      <DependentUpon>Muzicala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PR_test.resx">
+      <DependentUpon>PR_test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PSE.resx">
+      <DependentUpon>PSE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PSI.resx">
+      <DependentUpon>PSI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PVE.resx">
+      <DependentUpon>PVE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PVI.resx">
+      <DependentUpon>PVI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestADNmotivational.resx">
+      <DependentUpon>TestADNmotivational.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TesteIntelig.resx">
+      <DependentUpon>TesteIntelig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test_Personalitate.resx">
+      <DependentUpon>Test_Personalitate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vizuala.resx">
+      <DependentUpon>Vizuala.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

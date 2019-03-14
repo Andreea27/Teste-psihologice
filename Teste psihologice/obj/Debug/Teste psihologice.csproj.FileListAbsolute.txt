@@ -1,0 +1,67 @@
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\bin\Debug\Teste psihologice.exe
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\bin\Debug\Teste psihologice.pdb
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste psihologice.csprojResolveAssemblyReference.cache
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.MainForm.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Form1.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste psihologice.csproj.GenerateResource.Cache
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste psihologice.exe
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste psihologice.pdb
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.CSE.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.CSI.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.CVE.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.CVI.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.PSE.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.PSI.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.PVE.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.PVI.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Test_Personalitate.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Form_Coleric.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Form_Flegmatic.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Form_Melancolic.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Form_Sangvinic.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.TesteIntelig.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Muzicala.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Chinestezica.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Interpersonala.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Intrapersonala.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Lingvistica.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.LogicaM.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Vizuala.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.PR_test.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Extrovertit.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Introvertit.resources
+D:\C#\A.Projects\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Introvertit_Extrovertit.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\bin\Debug\Teste psihologice.exe
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\bin\Debug\Teste psihologice.pdb
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste psihologice.csprojAssemblyReference.cache
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Chinestezica.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.CSE.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.CSI.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.CVE.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.CVI.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Extrovertit.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Form_Coleric.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Form_Flegmatic.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Form_Melancolic.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Form_Sangvinic.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Interpersonala.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Intrapersonala.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Introvertit.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Introvertit_Extrovertit.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Lingvistica.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.LogicaM.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.MainForm.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Muzicala.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.PR_test.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.PSE.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.PSI.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.PVE.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.PVI.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Form1.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.TesteIntelig.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Test_Personalitate.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste_psihologice.Vizuala.resources
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste psihologice.csproj.GenerateResource.cache
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste psihologice.csproj.CoreCompileInputs.cache
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste psihologice.exe
+C:\Users\Andreea\Google Drive\Doc\Teste psihologice\Teste psihologice\obj\Debug\Teste psihologice.pdb
